@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Eu sou Adriano Eusébio.<br>Sou técnico de Informática e um entusiasta do mundo da tecnologia.<br><br>- 🔭 Estou em busca da minha primeira oportunidade para me inserir no mercado de trabalho.<br>- 📚 Sou estudante do curso de Ciências da Computação pela UNINORTE.<br>- ⚡ No meu tempo livre eu gosto de jogar e ver mais coisas sobre o mundo nerd e da programação.</p>
+<p align="left">Eu sou Adriano Eusébio.<br>Sou técnico de Informática e um entusiasta do mundo da tecnologia.<br><br>- 🔭<br>- 📚 Sou estudante do curso de Ciências da Computação pela UNINORTE.<br>- ⚡ No meu tempo livre eu gosto de jogar e ver mais coisas sobre o mundo nerd e da programação.</p>
 
 ###
 
